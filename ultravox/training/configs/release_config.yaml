@@ -1,4 +1,4 @@
-# SLM with ultravox & llama3.1, trained wtih knowledge distillation.
+# SLM with ultravox & Deepseek R1 1B Distillation, trained wtih knowledge distillation.
 # Make sure to accept the license agreement on huggingface hub
 text_model: "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B"
 audio_model: "openai/whisper-medium"
