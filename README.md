@@ -16,6 +16,10 @@ Transform One Document Into Infinite Possibilities using BubblSpace TimeCapsuleâ
 
 # About
 
+Bubblspace-persona-ai is a revolutionary speech-to-speech pipeline for building voice-enabled AI personas. This repository provides the complete toolkit needed to create natural conversational AI agents that can both understand and generate speech.
+
+At its core, bubblspace-persona-ai takes either audio or text input and generates natural-sounding audio output, enabling truly fluid conversations with AI agents. Built on a groundbreaking multimodal LLM architecture, it can process both text and human speech directly without requiring a separate Audio Speech Recognition (ASR) stage.
+
 Bubblspace is a groundbreaking multi-AI agent platform that transforms single documents into various interactive AI experiences. Built on advances in multimodal AI (including Ultravox for voice capabilities), our system enables:
 
 - **Document Transformation**: Convert one document into multiple AI-powered formats
@@ -73,16 +77,17 @@ All branding materials, including but not limited to:
 
 Are proprietary and copyright Â© 2024 AIEDX. All rights reserved.
 
-### About Ultravox
 
-Bubblspace leverages Ultravox, a groundbreaking multimodal LLM that directly processes human speech without requiring a separate Audio Speech Recognition (ASR) stage. Key features include:
+
+Bubblspace is a fork of Ultravox, a groundbreaking multimodal LLM that directly processes human speech without requiring a separate Audio Speech Recognition (ASR) stage. 
 
 - **Direct Speech Understanding**: Processes audio directly into LLM-compatible high-dimensional space
-- **Multiple Model Support**: Trained versions available for Llama 3, Mistral, and Gemma
+- **Multiple Model Support**: Trained versions available for Deepseek
 - **Fast Response Time**: Outperforms traditional ASR+LLM pipeline systems
 - **Future Capabilities**: Will understand paralinguistic cues like timing and emotion
+- **Speech-to-Speech Pipeline**: Complete pipeline for building voice-enabled AI models
 
-Our implementation uses the Llama 3.3 70B model by default, with an 8B variant available on Hugging Face. Ultravox's architecture allows for training against any open-weight model, making it highly adaptable for various use cases.
+Our implementation uses the Deepseek models by default.
 
 ---
 
