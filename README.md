@@ -20,7 +20,7 @@ Bubblspace-persona-ai is a revolutionary speech-to-speech pipeline for building 
 
 At its core, bubblspace-persona-ai takes either audio or text input and generates natural-sounding audio output, enabling truly fluid conversations with AI agents. Built on a groundbreaking multimodal LLM architecture, it can process both text and human speech directly without requiring a separate Audio Speech Recognition (ASR) stage.
 
-Bubblspace is a groundbreaking multi-AI agent platform that transforms single documents into various interactive AI experiences. Built on advances in multimodal AI (including Ultravox for voice capabilities), our system enables:
+Bubblspace is a groundbreaking multi-AI agent platform that transforms single documents into various interactive AI experiences. Built on advances in multimodal AI , our system enables:
 
 - **Document Transformation**: Convert one document into multiple AI-powered formats
 - **Voice-Enabled AI Personas**: Natural audio conversations with AI agents
